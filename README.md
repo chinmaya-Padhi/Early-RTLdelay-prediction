@@ -26,6 +26,17 @@ I record my daily research log in [`daily_logs/`](./daily_logs/) folder. Each lo
 - Issues faced
 - Next steps
 
+  ## 📈 Progress Tracker
+
+| Date       | Task Summary                          | Status  |
+|------------|---------------------------------------|---------|
+| 2025-08-06 | Set up repo, reviewing the literature | ✅ Done ||
+
+---
+
+## 🚀 Future Plans
+
+
 ## 📚 References
 
 - [Early RTL delay prediction using NNs - Elsevier](https://doi.org/10.1016/j.micpro.2022.104671)
