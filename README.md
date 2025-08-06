@@ -29,6 +29,7 @@ I record my daily research log in [`daily_logs/`](./daily_logs/) folder. Each lo
 ## 📚 References
 
 - [Early RTL delay prediction using NNs - Elsevier](https://doi.org/10.1016/j.micpro.2022.104671)
+-  [MasterRTL PPA Estimation - IEEE Xplore](https://doi.org/10.1109/TCAD.2024.3420904)
 
 ## 🤝 Contribution
 
