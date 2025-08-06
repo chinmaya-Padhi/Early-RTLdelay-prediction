@@ -3,6 +3,7 @@
 This repository is dedicated to my ongoing research work on **early delay prediction from RTL designs using machine learning**, inspired by recent papers like:
 
 - _"Early RTL delay prediction using neural networks"_
+-  _"Transferable Presynthesis PPA Estimation for RTL Designs with Data Augmentation Techniques"_
 
 ## 📌 Objective
 
