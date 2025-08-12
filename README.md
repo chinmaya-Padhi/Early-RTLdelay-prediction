@@ -34,7 +34,9 @@ I record my daily research log in [`daily_logs/`](./daily_logs/) folder. Each lo
 | 2025-08-07 | Fixing laptop display and bettery issu| ✅ Done |
 | 2025-08-08 | Details study of Into part            | ✅ Done |
 | 2025-08-09 | Holiday ( no work )                   |          |
-| 2025-08-10 | Details study of Method part          |          ||
+| 2025-08-10 | Details study of Method part          | ✅ Donn  | 
+| 2025-08-11 | Proposed Enhanced pipeline            | ✅ Donn  | 
+| 2025-08-10 | RTL Generator                         | ✅ Donn  | |
 ---
 
 ## 🚀 Future Plans
